@@ -1,26 +1,20 @@
 body {
-    background-color: #83AF9B;
-    text-align: center;
-    font-family: Arial;
-    padding: 0;
-    margin: 0;
+    background-color: purple;
+    text-align: left;
+    color: white;
+    padding: 50px;
 }
 h1 {
-    background-color: #FE4365;
-    color: #F9CDAD;
     font-size: 8em;
     padding: 50px;
 }
-h2 {
-    color: #FE4365;
-    background-color: #F9CDAD;
-}
-img {
-    height: 250px;
+ul {
+    background-color: silver;
+    align-content: center;
+    color: black;
 }
 p {
-    background-color: #FC9D9A;
-    color: white;
-    padding: 50px;
-    font-size: 2em;
+    color: fuchsia;
+/*    padding: 50px;
+    font-size: 2em;*/
 }

@@ -1,24 +1,45 @@
-body {
+/*Here are the color HEX code used above:
 
+light yellow: #ffff99
+medium yellow: #ffcc00
+orange: #ff6600
+Here are the fonts used above:
+
+Helvetica
+Impact
+Courier New
+*/
+body {
+    background-color: aqua;    
+    color: white;
+    font-size: 2em;
+    margin: 0px;
 }
 
 h1 {
-
+    background-color: #ffcc00;
+    color: white;
+    font-size: 2em;
 }
 
 
 h2 {
-
+    background-color: #ffcc00;
+    color: white;
+    font-size: 1em;
 }
 
 ol {
-
+    align-content: center;
+    background-color: gray;
+    margin: 300px;
 }
 
 li {
-
+    background-color: #ff6600;
 }
 
 p {
-
+    align-content: center;
+    margin: 200px;
 }
